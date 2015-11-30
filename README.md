@@ -13,9 +13,9 @@ Starring and watching an organization or following a person will help make it ea
 To watch and star a repository, click these respective icons on the top right of that particular repository when viewing it on GitHub.
 
 ####Official Documentation
-- [GitHub: Watching Repositories](https://help.github.com/articles/watching-repositories/){: target="_blank" }
-- [GitHub: About Notifications](https://help.github.com/articles/about-notifications/){: target="_blank" }
-- [GitHub: Managing Notifications](https://help.github.com/articles/managing-notifications/){: target="_blank" }
+- [GitHub: Watching Repositories](https://help.github.com/articles/watching-repositories/)
+- [GitHub: About Notifications](https://help.github.com/articles/about-notifications/)
+- [GitHub: Managing Notifications](https://help.github.com/articles/managing-notifications/)
 
 ##2. Fork the Repository
 
@@ -25,8 +25,8 @@ To watch and star a repository, click these respective icons on the top right of
 To fork a repository, click the fork icon on the top right of the source repository. Once the repository is forked, it is now copied to your account where you can work on it independent of the original source repository, or upstream repository. This is a useful practice as it keeps the original upstream repository clean, ready for deployment/production.
 
 ####Official Documentation
-- [GitHub: Working with Forks](https://help.github.com/articles/working-with-forks/){: target="_blank" }    
-- [GitHub: About Forks](https://help.github.com/articles/about-forks/){: target="_blank" }
+- [GitHub: Working with Forks](https://help.github.com/articles/working-with-forks/)    
+- [GitHub: About Forks](https://help.github.com/articles/about-forks/)
 
 ##3. Clone the Repository
 
@@ -44,7 +44,7 @@ For the sake of an example, let's say you forked this repository to your own Git
 Once completed, the repository is now available on your machine.
 
 ####Official Documentation  
-- [GitHub: Cloning a Repository](https://help.github.com/articles/cloning-a-repository/){: target="_blank" }
+- [GitHub: Cloning a Repository](https://help.github.com/articles/cloning-a-repository/)
 
 ##4. Add an 'Upstream' Remote
 
@@ -67,7 +67,7 @@ To learn more about individual remotes, enter the following command (replacing `
 `git remote show <remote-name>`
 
 ####Official Documentation
-- [GitHub: Configuring a Remote for a Fork](https://help.github.com/articles/configuring-a-remote-for-a-fork/){: target="_blank" }
+- [GitHub: Configuring a Remote for a Fork](https://help.github.com/articles/configuring-a-remote-for-a-fork/)
 
 ##5. Create a Branch
 
@@ -99,7 +99,7 @@ You will now be working within that branch.
 Once the branch is checked out, you'll be working within this branch.
 
 ####Official Documentation
-- [GitHub: About Branches](https://help.github.com/articles/about-branches/){: target="_blank" }
+- [GitHub: About Branches](https://help.github.com/articles/about-branches/)
 
 ##6. Add and Commit Changes
 
@@ -144,10 +144,10 @@ Want to cut out a step? There's a way to add and commit in one single command. B
 Issues can also be closed out via a `git commit` by using specific keywords within the commit message, such as "resolved" or "fixed".
 
 ####Official Documentation
-- [Git: The HEAD](https://git-scm.com/book/tr/v2/Git-Internals-Git-References#The-HEAD){: target="_blank" }
-- [Git: Git Add](https://git-scm.com/docs/git-add){: target="_blank" }
-- [Git: Git Commit](https://git-scm.com/docs/git-commit){: target="_blank" }
-- [GitHub: Closing Issues via Commit Messages](https://help.github.com/articles/closing-issues-via-commit-messages/){: target="_blank" }
+- [Git: The HEAD](https://git-scm.com/book/tr/v2/Git-Internals-Git-References#The-HEAD)
+- [Git: Git Add](https://git-scm.com/docs/git-add)
+- [Git: Git Commit](https://git-scm.com/docs/git-commit)
+- [GitHub: Closing Issues via Commit Messages](https://help.github.com/articles/closing-issues-via-commit-messages/)
 
 
 ##7. Push to the Remote Repository
@@ -166,8 +166,8 @@ Replace `<branch name>` with the name of your active branch.
 Once the push to your forked repository on a branch that is not master is completed, a **pull request** will occur on GitHub. This is where the collaboration begins!
 
 ####Official Documentation
-- [Git: Git Push](https://git-scm.com/docs/git-push){: target="_blank" }
-- [GitHub: Pushing to a Remote](https://help.github.com/articles/pushing-to-a-remote/){: target="_blank" }
+- [Git: Git Push](https://git-scm.com/docs/git-push)
+- [GitHub: Pushing to a Remote](https://help.github.com/articles/pushing-to-a-remote/)
 
 ##8. Pull Requests and Merges
 - Pull requests need to be initiated
@@ -183,8 +183,8 @@ When opening a pull request, you'll have the option to include a title to the re
 From here, the discussion is open and the person or organization managing the repository can either close your pull request or ultimately merge the pull request with the master branch.
 
 ####Official Documentation
-- [GitHub: Creating a Pull Request](https://help.github.com/articles/creating-a-pull-request/){: target="_blank" }
-- [GitHub: Syncing a Fork](https://help.github.com/articles/using-pull-requests/){: target="_blank" }
+- [GitHub: Creating a Pull Request](https://help.github.com/articles/creating-a-pull-request/)
+- [GitHub: Syncing a Fork](https://help.github.com/articles/using-pull-requests/)
 
 ##9. Keeping a Forked Repository Synced
 - Keeping forked repository synced is important
@@ -212,7 +212,7 @@ To stay synced with the upstream repository and to make it easier to move betwee
 Your remote forked repository should now be 100% synced **1)** the upstream master branch and **2)** with whatever you've been doing on the local repository.
 
 ####Official Documentation
-- [GitHub: Syncing a Fork](https://help.github.com/articles/syncing-a-fork/){: target="_blank" }
+- [GitHub: Syncing a Fork](https://help.github.com/articles/syncing-a-fork/)
 
 ##10. Rinse and Repeat
 
